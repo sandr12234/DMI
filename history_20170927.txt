@@ -244,3 +244,41 @@
   244  whereis git
   245  rm history.txt 
   246  history > history_20170927.txt
+  247  ls -la
+  248  cat git-upload 
+  249  git-upload
+  250  ls -la
+  251  ifconfig
+  252  who
+  253  ls -la
+  254  nano shell_programming.sh 
+  255  echo $0
+  256  echo $$
+  257  echo $n
+  258  echo $#
+  259  echo $*
+  260  echo $@
+  261  echo $$
+  262  echo $!
+  263  echo $$
+  264  echo $!
+  265  nano shell_programming.sh 
+  266  shell_programming.sh 
+  267  nano shell_programming.sh 
+  268  shell_programming.sh arg1
+  269  shell_programming.sh arg1 arg 2
+  270  shell_programming.sh arg1 arg2
+  271  shell_programming.sh arg1 arg2 arg3
+  272  nano shell_programming.sh 
+  273  shell_programming.sh arg1 arg2 arg3
+  274  shell_programming.sh
+  275  nano shell_programming.sh 
+  276  shell_programming.sh
+  277  nano shell_programming.sh 
+  278  shell_programming.sh
+  279  nano shell_programming.sh 
+  280  shell_programming.sh arg1 arg 2
+  281  shell_programming.sh arg1 arg2
+  282  nano shell_programming.sh 
+  283  nano git-upload
+  284  history > history_20170927.txt
