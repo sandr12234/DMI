@@ -1,0 +1,21 @@
+cat - concatenate, parada faila saturu
+cd - change directory, mainit atrasanas vietu
+chmod - komanda ar kuras palidzibu var uzstadit nepieciesamas piekluves tiesibas
+echo $0 - norada kards skripts tiek attelots
+echo - komanda domata, lai attelotu ievadito tekstu
+echo $* - skriptam nodotie argumenti (grupesana/attelosana 1)
+echo $@ - skriptam nodotie argumenti (grupesana/attelosana 2)
+echo $# - skriptam nodoto argumentu skaits
+echo $$ - skriptam pieskirtais procesa numurs
+firefox - atver firefox parluku
+history - parada ievadito komandu vesturi
+ls -a - attelot visus failus kopa ar sleptajiem
+ls -l - parada faila izmantosanas tiesibas, ipasnieka vardu, izmeru un nosaukumu
+ls - parada kataloga saturu
+man - manual, parada informaciju par izveleto komandu un tas atslegam
+mkdir - make directory, izveidot direktoriju/mapi
+nano - teksta redaktors 
+pwd - print working directory, noradit direktoriju, kur atrodas lietotajs.
+rmdir - remove directory, izdzest direktoriju/mapi
+whereis - parada celu lidz meklemajam failam
+whoami - parada lietotaja “vardu”
