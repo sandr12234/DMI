@@ -5,8 +5,9 @@
 #echo "$val"
 
 #1. piemers
-a=6
-b=10
+a=$1
+b=$2
+#./shell_operators.sh 10 12 (ievadit mainigos)
 
 val=`expr $a + $b`
 val1=`expr $a - $b`
@@ -77,3 +78,22 @@ then
 echo "++"
 fi
 
+echo "$0"
+echo "$1"
+echo "$2"
+echo "$@"
+echo "$*"
+echo "$#"
+
+a1=$3
+b1=$4
+
+if [ $a1 = $b1 -o -n $a1 ]
+then 
+echo "+++"
+fi
+
+if [ str $b1 ]
+then
+echo "empty"
+fi
