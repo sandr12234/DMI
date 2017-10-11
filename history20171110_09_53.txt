@@ -1,0 +1,500 @@
+    1  whoami
+    2  pwd
+    3  mkdir darbi
+    4  cd darbi
+    5  history
+    6  history > history.txt
+    7  ls
+    8  ls -l
+    9  git init
+   10  sudo apt install git
+   11  git init
+   12  git add .
+   13  git config --global user.email sandr12234@gmail.com
+   14  git commit -m "20170913_19_01"
+   15  git remote add origin https://github.com/sandr12234/darbi1.git
+   16  git push origin master
+   17  firefox
+   18  ls -l
+   19  cd ..
+   20  cd darbi
+   21  git push origin master
+   22  username -r
+   23  uname -r
+   24  pwd
+   25  whoami
+   26  firefox
+   27  cd darbi
+   28  ls -a
+   29  ls -la
+   30  history
+   31  cat history.txt
+   32  echo 12345
+   33  x=10
+   34  echo x
+   35  echo $x
+   36  echo -e "12345"
+   37  echo -e "12345 \n12345"
+   38  history
+   39  history > history.txt
+   40  cat history.txt
+   41  git init
+   42  git add .
+   43  git push origin master
+   44  git config --global user.email sandr12234@gmail.com
+   45  git commit -m "20170919_20_44"
+   46  git remote add origin https://github.com/sandr122345/darbi1
+   47  git push origin mater
+   48  git push origin master
+   49  git init
+   50  git add .
+   51  git config --global user.email sandr12234@gmail.com
+   52  git commit -m "20170919_20_44"
+   53  git remote add origin https://github.com/sandr122345/darbi2.git
+   54  git push origin master
+   55  history
+   56  history > history.txt
+   57  cat history.txt
+   58  git init
+   59  git push origin master
+   60  git remote add origin https://github.com/sandr122345/darbi1.git
+   61  git init
+   62  git add .
+   63  git config --global user.email sandr12234@gmail.com
+   64  git push origin master
+   65  git init
+   66  git add .
+   67  git commit -m "20170919_20_54"
+   68  git push origin master
+   69  git download
+   70  echo $PATH
+   71  thereisls
+   72  thereis ls
+   73  whereis ls
+   74  cat bin ls
+   75  catbin ls
+   76  cat /bin/ ls
+   77  cat /bin/ls
+   78  ls -l
+   79  cd darbi
+   80  cd ..
+   81  #!/bin/bash
+   82  # my1script
+   83  echo "12345"
+   84  #!/bin/bash
+   85  # first script
+   86  pwd
+   87  chmod 700 scriptname
+   88  cd darbi
+   89  ls -la
+   90  cd darbi1
+   91  ls -la
+   92  cd ..
+   93  chmod 744 history.txt
+   94  ls -la
+   95  #!/bin/bash echo
+   96  # first script
+   97  chmod 744
+   98  chmod --help
+   99  ls
+  100  ls -la
+  101  touch
+  102  touch --help
+  103  touch script
+  104  #!/bin/bash
+  105  #first script
+  106  ls -la
+  107  pwd
+  108  ./myscript
+  109  chmod 744 script
+  110  ls -la
+  111  mk script
+  112  ls -la
+  113  md script
+  114  touch
+  115  ./script
+  116  #!/bin/bash
+  117  echo "12345"
+  118  mrd script
+  119  ls -la
+  120  #!/bin/bash
+  121  ls -la
+  122  rm script
+  123  ls -la
+  124  cd darbi1
+  125  cd darbi
+  126  ls -la
+  127  git clone https://github.com/sandr12234/darbi1
+  128  ls -la
+  129  cd darbi1
+  130  ls -la
+  131  cd ..
+  132  ls -la
+  133  whoami
+  134  git clone https:/github.com/sandr12234/history.txt
+  135  git push master origin
+  136  git push origin master
+  137  git clone https:/github.com/sandr12234/history.txt
+  138  git clone https:/github.com/sandr12234/darbi1/history.txt
+  139  git clone htpps://github.com/sandr12234/darbi1/history.txt
+  140  git clone https:/github.com/sandr12234/darbi1/history.txt
+  141  git clone https:/github.com/sandr12234/history.txt
+  142  sudo atp get instal
+  143  sudo atp update instal
+  144  sudo atp update
+  145  git clone https:/github.com/sandr12234/darbi1
+  146  ls -la
+  147  home
+  148  ls -la
+  149  cd darbi
+  150  ls -la
+  151  cd darbi1
+  152  ls -la
+  153  cat history.txt
+  154  variable_name=varialbe_value
+  155  script="12345"
+  156  #!/bin/sh
+  157  script="12345"
+  158  echo $script
+  159  ls -la
+  160  echo $script
+  161  script="12345"
+  162  readonly script
+  163  cd..
+  164  cd ..
+  165  script="123"
+  166  unset script
+  167  mkdir DMI
+  168  cd DMI
+  169  unset script
+  170  $mainiigais=10
+  171  mainiigais=10
+  172  echo $mainiigais
+  173  echo $mainiigai
+  174  mainiigais_=20
+  175  echo $mainiigais__
+  176  echo $mainiigais_
+  177  23main=10
+  178  main1=10
+  179  pwd
+  180  nano shell_programming.sh
+  181  ls -la
+  182  cat /etc/shells
+  183  ls -l
+  184  chmod 744 shell_programming.sh 
+  185  ls -l
+  186  shell_programming.sh
+  187  pwd
+  188  ./shell_programming.sh 
+  189  cat shell_programming.sh 
+  190  nano shell_programming.sh 
+  191  ./shell_programming.sh 
+  192  nano shell_programming.sh 
+  193  ./shell_programming.sh 
+  194  nano shell_programming.sh 
+  195  ls -l
+  196  pwd
+  197  ls -la
+  198  git init
+  199  git add .
+  200  git config --global user.email sandr12234@gmail.com
+  201  git commit -m "20170927_09_52"
+  202  git remote add origin https://github.com/sandr12234/DMI
+  203  git push origin master
+  204  history > history.txt
+  205  git push origin master
+  206  ls -la
+  207  nano git-upload
+  208  chmod 744 git-upload
+  209  git-upload
+  210  pwd
+  211  PATH:/home/sandris/darbi/DMI
+  212  PATH=/home/sandris/darbi/DMI
+  213  echo $PATH
+  214  git-upload
+  215  PATH=$PATH:/home/sandris/darbi/DMI
+  216  echo $PATH
+  217  git-upload
+  218  pwd
+  219  PATH=$PATH:~/darbi/DMI
+  220  echo $PATH
+  221  git-upload
+  222  pwd
+  223  ls -la
+  224  ls
+  225  pwd
+  226  echo $PATH
+  227  history
+  228  echo $PATH
+  229  history
+  230  history | grep PATH
+  231  PATH=/bin$:PATH
+  232  history | grep PATH
+  233  echo $PATH
+  234  PATH=/bin
+  235  echo $PATH
+  236  history | grep PATH
+  237  history
+  238  history | grep PATH
+  239  ls -la
+  240  PATH=$PATH:~/darbi/DMI
+  241  git-upload 
+  242  whereis git
+  243  PATH=$PATH:/usr/bin
+  244  whereis git
+  245  rm history.txt 
+  246  history > history_20170927.txt
+  247  ls -la
+  248  cat git-upload 
+  249  git-upload
+  250  ls -la
+  251  ifconfig
+  252  who
+  253  ls -la
+  254  nano shell_programming.sh 
+  255  echo $0
+  256  echo $$
+  257  echo $n
+  258  echo $#
+  259  echo $*
+  260  echo $@
+  261  echo $$
+  262  echo $!
+  263  echo $$
+  264  echo $!
+  265  nano shell_programming.sh 
+  266  shell_programming.sh 
+  267  nano shell_programming.sh 
+  268  shell_programming.sh arg1
+  269  shell_programming.sh arg1 arg 2
+  270  shell_programming.sh arg1 arg2
+  271  shell_programming.sh arg1 arg2 arg3
+  272  nano shell_programming.sh 
+  273  shell_programming.sh arg1 arg2 arg3
+  274  shell_programming.sh
+  275  nano shell_programming.sh 
+  276  shell_programming.sh
+  277  nano shell_programming.sh 
+  278  shell_programming.sh
+  279  nano shell_programming.sh 
+  280  shell_programming.sh arg1 arg 2
+  281  shell_programming.sh arg1 arg2
+  282  nano shell_programming.sh 
+  283  nano git-upload
+  284  history > history_20170927.txt
+  285  gitu-upload
+  286  git-upload
+  287  PATH=$PATH:./
+  288  git-upload
+  289  ls -la
+  290  cd darbi
+  291  ls -la
+  292  cd darbi1
+  293  ls -la
+  294  cd ..
+  295  cd DMI
+  296  ls -la
+  297  cat history_20170927.txt 
+  298  cd ..
+  299  ls -la
+  300  uname -r
+  301  pwd
+  302  whoami
+  303  ls
+  304  ls -l
+  305  ls -a
+  306  ls -la
+  307  histry
+  308  history
+  309  cd .
+  310  mkdir 123
+  311  cd 123
+  312  cd ..
+  313  rmdir 123
+  314  ls -la
+  315  man history
+  316  echo 123
+  317  ls -la
+  318  cat history.txt 
+  319  ls -la
+  320  cd DMI
+  321  ls -la
+  322  nano shell_programming.sh 
+  323  thereispwd
+  324  thereisls
+  325  whereispwd
+  326  whereisls
+  327  whereis pwd
+  328  ls -la
+  329  chmod 744 history_20170927.txt 
+  330  ls -la
+  331  cd ..
+  332  ls -la
+  333  history > history123.txt
+  334  ls -la
+  335  rm history123.txt 
+  336  ls -la
+  337  mk history123.txt
+  338  echo $PATH
+  339  pwd
+  340  man ls
+  341  man uname
+  342  uname
+  343  ls
+  344  ls -l
+  345  ls -a
+  346  ls -la
+  347  cd darbi
+  348  ls -la
+  349  cd DMI
+  350  ls -la
+  351  nano shell_programming.sh 
+  352  echo $0
+  353  nano shell_programming.sh 
+  354  pwd
+  355  echo $?
+  356  ls -la
+  357  git-upload
+  358  ~/git-upload
+  359  ~/darbi/DMI/git-upload 
+  360  ls -la
+  361  cd .git
+  362  ls -la
+  363  cd ..
+  364  ~/darbi/DMI/git-upload 
+  365  git pull
+  366  ~/darbi/DMI/git-upload 
+  367  git pull
+  368  histoy > history.txt
+  369  history > history.txt
+  370  ls -la
+  371  ~/darbi/DMI/git-upload 
+  372  nano git-upload 
+  373  ~/darbi/DMI/git-upload 
+  374  git pull
+  375  git pull(1)
+  376  man git pull
+  377  git pull sandr12234/DMI
+  378  git config --global user.email sandr12234@gmail.com
+  379  git add .
+  380  git commit -m "20171008_23_36"
+  381  git push origin master
+  382  git push origin post --force
+  383  git push origin post
+  384  ~/darbi/DMI/git-upload 
+  385  cd darbi
+  386  cd DMI
+  387  ~/darbi/DMI/git-upload 
+  388  git pull [.]
+  389  git push origin post --force
+  390  git push origin post
+  391  git checkout --.
+  392  ~/darbi/DMI/git-upload 
+  393  git push --hrlp
+  394  git push --help
+  395  git push --all
+  396  git pull
+  397  git pull DMI
+  398  git pull <DMI>
+  399  PATH=$PATH:~/darbi/DMI
+  400  ~/darbi/DMI/git-upload 
+  401  git-upload
+  402  git pull origin master
+  403  ls -la
+  404  chmod 744 Datormaciba.txt 
+  405  ls -la
+  406  sort Datormaciba.txt > Datormaciba1.txt
+  407  cat Datormaciba1.txt
+  408  git-upload
+  409  cd darbi
+  410  cd DMI
+  411  ls -la
+  412  cat history_20170927.txt 
+  413  ls -la
+  414  cat shell_programming.sh 
+  415  nano shell_operators.sh
+  416  ~/darbi/DMI/shell_operators.sh
+  417  chmod 744 shell_operators.sh 
+  418  ~/darbi/DMI/shell_operators.sh
+  419  nano shell_o
+  420  nano shell_operators.sh 
+  421  ~/darbi/DMI/shell_operators.sh
+  422  nano shell_operators.sh 
+  423  ~/darbi/DMI/shell_operators.sh
+  424  nano shell_operators.sh 
+  425  ~/darbi/DMI/shell_operators.sh
+  426  nano shell_operators.sh 
+  427  ~/darbi/DMI/shell_operators.sh
+  428  nano shell_operators.sh 
+  429  ~/darbi/DMI/shell_operators.sh
+  430  nano shell_operators.sh 
+  431  nano shell_programming.sh 
+  432  nano shell_operators.sh 
+  433  ~/darbi/DMI/shell_operators.sh
+  434  nano shell_operators.sh 
+  435  ~/darbi/DMI/shell_operators.sh
+  436  nano shell_operators.sh 
+  437  ~/darbi/DMI/shell_operators.sh
+  438  nano shell_operators.sh 
+  439  ~/darbi/DMI/shell_operators.sh
+  440  nano shell_operators.sh 
+  441  ~/darbi/DMI/shell_operators.sh
+  442  nano shell_operators.sh 
+  443  ~/darbi/DMI/shell_operators.sh
+  444  nano shell_operators.sh 
+  445  ~/darbi/DMI/shell_operators.sh
+  446  nano shell_operators.sh 
+  447  ~/darbi/DMI/shell_operators.sh
+  448  nano shell_operators.sh 
+  449  ~/darbi/DMI/shell_operators.sh
+  450  nano shell_operators.sh 
+  451  ~/darbi/DMI/shell_operators.sh
+  452  nano shell_operators.sh 
+  453  ~/darbi/DMI/shell_operators.sh
+  454  nano shell_operators.sh 
+  455  ~/darbi/DMI/shell_operators.sh
+  456  nano shell_operators.sh 
+  457  ~/darbi/DMI/shell_operators.sh
+  458  nano shell_operators.sh 
+  459  ~/darbi/DMI/shell_operators.sh
+  460  nano shell_operators.sh 
+  461  ~/darbi/DMI/shell_operators.sh
+  462  nano shell_operators.sh 
+  463  ~/darbi/DMI/shell_operators.sh
+  464  nano shell_operators.sh 
+  465  ~/darbi/DMI/shell_operators.sh
+  466  nano shell_operators.sh 
+  467  ~/darbi/DMI/shell_operators.sh
+  468  nano shell_operators.sh 
+  469  ~/darbi/DMI/shell_operators.sh
+  470  nano shell_operators.sh 
+  471  ~/darbi/DMI/shell_operators.sh
+  472  nano shell_operators.sh 
+  473  ~/darbi/DMI/shell_operators.sh
+  474  nano shell_operators.sh 
+  475  ~/darbi/DMI/shell_operators.sh
+  476  nano shell_operators.sh 
+  477  ~/darbi/DMI/shell_operators.sh
+  478  nano shell_operators.sh 
+  479  ~/darbi/DMI/shell_operators.sh
+  480  nano shell_operators.sh 
+  481  ~/darbi/DMI/shell_operators.sh
+  482  nano shell_operators.sh 
+  483  ~/darbi/DMI/shell_operators.sh
+  484  nano shell_operators.sh 
+  485  ~/darbi/DMI/shell_operators.sh
+  486  nano shell_operators.sh 
+  487  ~/darbi/DMI/shell_operators.sh
+  488  nano shell_operators.sh 
+  489  ~/darbi/DMI/shell_operators.sh
+  490  nano shell_operators.sh 
+  491  ~/darbi/DMI/shell_operators.sh
+  492  nano shell_operators.sh 
+  493  ~/darbi/DMI/shell_operators.sh
+  494  nano shell_operators.sh 
+  495  ~/darbi/DMI/shell_operators.sh
+  496  nano shell_operators.sh 
+  497  ~/darbi/DMI/shell_operators.sh
+  498  nano shell_operators.sh 
+  499  nano git-upload 
+  500  history > history20171110_09_53.txt
