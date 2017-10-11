@@ -1,5 +1,10 @@
 #!/bin/bash
+if [ $# == 1 ]
+then
 git config --global user.email sandr12234@gmail.com
 git add .
-git commit -m "20171110_09_52"
+git commit -m $1
 git push origin master
+else
+echo "ievadi nosaukumu"
+fi
