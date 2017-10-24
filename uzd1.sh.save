@@ -1,0 +1,25 @@
+#!/bin/bash
+
+a=$1
+b=$2
+c=$3
+
+if [ $1 -gt $2 ]
+echo "Ievadi skaitli: "
+
+then
+echo "Lielaks ir "$1
+else
+echo "Lielaks ir "$2
+fi
+
+if [ $1 -gt $2 -a $3 ]
+then
+echo "Lielaks ir "$1
+else
+echo "Lielaks ir "$2
+fi
+if [ $3 -gt $1 -a $2 ]
+then
+echo "Lielaks ir " $3
+fi
