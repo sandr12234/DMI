@@ -20,3 +20,4 @@ echo "3."
 read c
 area1=( $a $b $c )
 echo ${area1[2]}
+
