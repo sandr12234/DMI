@@ -57,13 +57,13 @@ echo "mediana" ${ARRAY[z]}
 fi
 
 echo "moda"
-p=0
-for (( i=0; i<${#ARRAY[@]}; i++ ))
+popular=0
+for ((i
 do
 j=$((i+1))
 if [ ${ARRAY[i]} -eq ${ARRAY[j]} ]
 then
-$p + 1
+p=`expr $popular + 1`
 fi
 done
 echo $p

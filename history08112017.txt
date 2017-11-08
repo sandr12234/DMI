@@ -1,0 +1,1000 @@
+  199  git add .
+  200  git config --global user.email sandr12234@gmail.com
+  201  git commit -m "20170927_09_52"
+  202  git remote add origin https://github.com/sandr12234/DMI
+  203  git push origin master
+  204  history > history.txt
+  205  git push origin master
+  206  ls -la
+  207  nano git-upload
+  208  chmod 744 git-upload
+  209  git-upload
+  210  pwd
+  211  PATH:/home/sandris/darbi/DMI
+  212  PATH=/home/sandris/darbi/DMI
+  213  echo $PATH
+  214  git-upload
+  215  PATH=$PATH:/home/sandris/darbi/DMI
+  216  echo $PATH
+  217  git-upload
+  218  pwd
+  219  PATH=$PATH:~/darbi/DMI
+  220  echo $PATH
+  221  git-upload
+  222  pwd
+  223  ls -la
+  224  ls
+  225  pwd
+  226  echo $PATH
+  227  history
+  228  echo $PATH
+  229  history
+  230  history | grep PATH
+  231  PATH=/bin$:PATH
+  232  history | grep PATH
+  233  echo $PATH
+  234  PATH=/bin
+  235  echo $PATH
+  236  history | grep PATH
+  237  history
+  238  history | grep PATH
+  239  ls -la
+  240  PATH=$PATH:~/darbi/DMI
+  241  git-upload 
+  242  whereis git
+  243  PATH=$PATH:/usr/bin
+  244  whereis git
+  245  rm history.txt 
+  246  history > history_20170927.txt
+  247  ls -la
+  248  cat git-upload 
+  249  git-upload
+  250  ls -la
+  251  ifconfig
+  252  who
+  253  ls -la
+  254  nano shell_programming.sh 
+  255  echo $0
+  256  echo $$
+  257  echo $n
+  258  echo $#
+  259  echo $*
+  260  echo $@
+  261  echo $$
+  262  echo $!
+  263  echo $$
+  264  echo $!
+  265  nano shell_programming.sh 
+  266  shell_programming.sh 
+  267  nano shell_programming.sh 
+  268  shell_programming.sh arg1
+  269  shell_programming.sh arg1 arg 2
+  270  shell_programming.sh arg1 arg2
+  271  shell_programming.sh arg1 arg2 arg3
+  272  nano shell_programming.sh 
+  273  shell_programming.sh arg1 arg2 arg3
+  274  shell_programming.sh
+  275  nano shell_programming.sh 
+  276  shell_programming.sh
+  277  nano shell_programming.sh 
+  278  shell_programming.sh
+  279  nano shell_programming.sh 
+  280  shell_programming.sh arg1 arg 2
+  281  shell_programming.sh arg1 arg2
+  282  nano shell_programming.sh 
+  283  nano git-upload
+  284  history > history_20170927.txt
+  285  gitu-upload
+  286  git-upload
+  287  PATH=$PATH:./
+  288  git-upload
+  289  ls -la
+  290  cd darbi
+  291  ls -la
+  292  cd darbi1
+  293  ls -la
+  294  cd ..
+  295  cd DMI
+  296  ls -la
+  297  cat history_20170927.txt 
+  298  cd ..
+  299  ls -la
+  300  uname -r
+  301  pwd
+  302  whoami
+  303  ls
+  304  ls -l
+  305  ls -a
+  306  ls -la
+  307  histry
+  308  history
+  309  cd .
+  310  mkdir 123
+  311  cd 123
+  312  cd ..
+  313  rmdir 123
+  314  ls -la
+  315  man history
+  316  echo 123
+  317  ls -la
+  318  cat history.txt 
+  319  ls -la
+  320  cd DMI
+  321  ls -la
+  322  nano shell_programming.sh 
+  323  thereispwd
+  324  thereisls
+  325  whereispwd
+  326  whereisls
+  327  whereis pwd
+  328  ls -la
+  329  chmod 744 history_20170927.txt 
+  330  ls -la
+  331  cd ..
+  332  ls -la
+  333  history > history123.txt
+  334  ls -la
+  335  rm history123.txt 
+  336  ls -la
+  337  mk history123.txt
+  338  echo $PATH
+  339  pwd
+  340  man ls
+  341  man uname
+  342  uname
+  343  ls
+  344  ls -l
+  345  ls -a
+  346  ls -la
+  347  cd darbi
+  348  ls -la
+  349  cd DMI
+  350  ls -la
+  351  nano shell_programming.sh 
+  352  echo $0
+  353  nano shell_programming.sh 
+  354  pwd
+  355  echo $?
+  356  ls -la
+  357  git-upload
+  358  ~/git-upload
+  359  ~/darbi/DMI/git-upload 
+  360  ls -la
+  361  cd .git
+  362  ls -la
+  363  cd ..
+  364  ~/darbi/DMI/git-upload 
+  365  git pull
+  366  ~/darbi/DMI/git-upload 
+  367  git pull
+  368  histoy > history.txt
+  369  history > history.txt
+  370  ls -la
+  371  ~/darbi/DMI/git-upload 
+  372  nano git-upload 
+  373  ~/darbi/DMI/git-upload 
+  374  git pull
+  375  git pull(1)
+  376  man git pull
+  377  git pull sandr12234/DMI
+  378  git config --global user.email sandr12234@gmail.com
+  379  git add .
+  380  git commit -m "20171008_23_36"
+  381  git push origin master
+  382  git push origin post --force
+  383  git push origin post
+  384  ~/darbi/DMI/git-upload 
+  385  cd darbi
+  386  cd DMI
+  387  ~/darbi/DMI/git-upload 
+  388  git pull [.]
+  389  git push origin post --force
+  390  git push origin post
+  391  git checkout --.
+  392  ~/darbi/DMI/git-upload 
+  393  git push --hrlp
+  394  git push --help
+  395  git push --all
+  396  git pull
+  397  git pull DMI
+  398  git pull <DMI>
+  399  PATH=$PATH:~/darbi/DMI
+  400  ~/darbi/DMI/git-upload 
+  401  git-upload
+  402  git pull origin master
+  403  ls -la
+  404  chmod 744 Datormaciba.txt 
+  405  ls -la
+  406  sort Datormaciba.txt > Datormaciba1.txt
+  407  cat Datormaciba1.txt
+  408  git-upload
+  409  cd darbi
+  410  cd DMI
+  411  ls -la
+  412  cat history_20170927.txt 
+  413  ls -la
+  414  cat shell_programming.sh 
+  415  nano shell_operators.sh
+  416  ~/darbi/DMI/shell_operators.sh
+  417  chmod 744 shell_operators.sh 
+  418  ~/darbi/DMI/shell_operators.sh
+  419  nano shell_o
+  420  nano shell_operators.sh 
+  421  ~/darbi/DMI/shell_operators.sh
+  422  nano shell_operators.sh 
+  423  ~/darbi/DMI/shell_operators.sh
+  424  nano shell_operators.sh 
+  425  ~/darbi/DMI/shell_operators.sh
+  426  nano shell_operators.sh 
+  427  ~/darbi/DMI/shell_operators.sh
+  428  nano shell_operators.sh 
+  429  ~/darbi/DMI/shell_operators.sh
+  430  nano shell_operators.sh 
+  431  nano shell_programming.sh 
+  432  nano shell_operators.sh 
+  433  ~/darbi/DMI/shell_operators.sh
+  434  nano shell_operators.sh 
+  435  ~/darbi/DMI/shell_operators.sh
+  436  nano shell_operators.sh 
+  437  ~/darbi/DMI/shell_operators.sh
+  438  nano shell_operators.sh 
+  439  ~/darbi/DMI/shell_operators.sh
+  440  nano shell_operators.sh 
+  441  ~/darbi/DMI/shell_operators.sh
+  442  nano shell_operators.sh 
+  443  ~/darbi/DMI/shell_operators.sh
+  444  nano shell_operators.sh 
+  445  ~/darbi/DMI/shell_operators.sh
+  446  nano shell_operators.sh 
+  447  ~/darbi/DMI/shell_operators.sh
+  448  nano shell_operators.sh 
+  449  ~/darbi/DMI/shell_operators.sh
+  450  nano shell_operators.sh 
+  451  ~/darbi/DMI/shell_operators.sh
+  452  nano shell_operators.sh 
+  453  ~/darbi/DMI/shell_operators.sh
+  454  nano shell_operators.sh 
+  455  ~/darbi/DMI/shell_operators.sh
+  456  nano shell_operators.sh 
+  457  ~/darbi/DMI/shell_operators.sh
+  458  nano shell_operators.sh 
+  459  ~/darbi/DMI/shell_operators.sh
+  460  nano shell_operators.sh 
+  461  ~/darbi/DMI/shell_operators.sh
+  462  nano shell_operators.sh 
+  463  ~/darbi/DMI/shell_operators.sh
+  464  nano shell_operators.sh 
+  465  ~/darbi/DMI/shell_operators.sh
+  466  nano shell_operators.sh 
+  467  ~/darbi/DMI/shell_operators.sh
+  468  nano shell_operators.sh 
+  469  ~/darbi/DMI/shell_operators.sh
+  470  nano shell_operators.sh 
+  471  ~/darbi/DMI/shell_operators.sh
+  472  nano shell_operators.sh 
+  473  ~/darbi/DMI/shell_operators.sh
+  474  nano shell_operators.sh 
+  475  ~/darbi/DMI/shell_operators.sh
+  476  nano shell_operators.sh 
+  477  ~/darbi/DMI/shell_operators.sh
+  478  nano shell_operators.sh 
+  479  ~/darbi/DMI/shell_operators.sh
+  480  nano shell_operators.sh 
+  481  ~/darbi/DMI/shell_operators.sh
+  482  nano shell_operators.sh 
+  483  ~/darbi/DMI/shell_operators.sh
+  484  nano shell_operators.sh 
+  485  ~/darbi/DMI/shell_operators.sh
+  486  nano shell_operators.sh 
+  487  ~/darbi/DMI/shell_operators.sh
+  488  nano shell_operators.sh 
+  489  ~/darbi/DMI/shell_operators.sh
+  490  nano shell_operators.sh 
+  491  ~/darbi/DMI/shell_operators.sh
+  492  nano shell_operators.sh 
+  493  ~/darbi/DMI/shell_operators.sh
+  494  nano shell_operators.sh 
+  495  ~/darbi/DMI/shell_operators.sh
+  496  nano shell_operators.sh 
+  497  ~/darbi/DMI/shell_operators.sh
+  498  nano shell_operators.sh 
+  499  nano git-upload 
+  500  history > history20171110_09_53.txt
+  501  ./git-upload 
+  502  nano shell_operators.sh 
+  503  ~/darbi/DMI/shell_operators.sh
+  504  nano shell_operators.sh 
+  505  ~/darbi/DMI/shell_operators.sh
+  506  nano shell_operators.sh 
+  507  ~/darbi/DMI/shell_operators.sh
+  508  nano shell_operators.sh 
+  509  ~/darbi/DMI/shell_operators.sh
+  510  ./shell_operators.sh 4 10
+  511  nano shell_operators.sh 
+  512  ./shell_operators.sh 4 10
+  513  ./shell_operators.sh 4 100
+  514  s -la
+  515  ls -la
+  516  ls -a
+  517  ls -l
+  518  cat history20171110_09_53.txt 
+  519  ls -l
+  520  cat Datormaciba1.txt 
+  521  ls -l
+  522  nano shell_operators.sh 
+  523  ./shell_operators.sh 1 2 qwe rty
+  524  nano shell_operators.sh 
+  525  ./shell_operators.sh 1 2 qwe rty
+  526  nano shell_operators.sh 
+  527  ./shell_operators.sh 1 2 qwe
+  528  nano shell_operators.sh 
+  529  ./shell_operators.sh 1 2 qwe
+  530  ./shell_operators.sh 1 2 qwe rty[B
+  531  ./shell_operators.sh 1 2 qwe
+  532  nano shell_test
+  533  ./shell_test.sh
+  534  chmod 744 shell_test.sh 
+  535  ./shell_test.sh
+  536  nano shell_test.sh 
+  537  nano shell_operators.sh 
+  538  nano shell_test.sh 
+  539  ./shell_test.sh 
+  540  nano shell_test.sh 
+  541  ./shell_test.sh 
+  542  nano shell_test.sh 
+  543  ./shell_test.sh 
+  544  ls -l
+  545  nano shell_operators.sh 
+  546  ./shell_operators.sh 
+  547  ./shell_operators.sh 1 2 
+  548  nano shell_operators.sh 
+  549  nano shell_test.sh 
+  550  ./shell_test.sh qwe
+  551  nano shell_test.sh 
+  552  ./shell_test.sh qwe
+  553  ./shell_test.sh
+  554  ./shell_test.sh 1
+  555  ./shell_test.sh
+  556  nano shell_test.sh 
+  557  ./shell_test.sh 1 2
+  558  nano shell_test.sh 
+  559  ./shell_test.sh 1 2
+  560  nano shell_test.sh 
+  561  ./shell_test.sh 1 2
+  562  nano shell_test.sh 
+  563  ./shell_test.sh 1 2
+  564  nano shell_test.sh 
+  565  ./shell_test.sh 1 2
+  566  nano shell_test.sh 
+  567  ./shell_test.sh 1 2
+  568  nano shell_test.sh 
+  569  ./shell_test.sh 1 2
+  570  nano shell_test.sh 
+  571  ./shell_test.sh 1 2
+  572  nano shell_test.sh 
+  573  ./shell_test.sh 1 2
+  574  nano shell_test.sh 
+  575  ./git-upload 
+  576  cd darbi
+  577  cd DMI
+  578  ls -l
+  579  nano git-upload 
+  580  nano shell_operators.sh 
+  581  nano git-upload 
+  582  ./git-upload 
+  583  ./git-upload 20171110_17_10
+  584  ls -l
+  585  cd darbi
+  586  ls -l
+  587  cd DMI
+  588  ls -l
+  589  nano shell_programming.sh 
+  590  nano shell_operators.sh 
+  591  nano shell_test.sh 
+  592  nan git-upload 
+  593  nano git-upload 
+  594  ./git-upload 
+  595  ls -l
+  596  cd ..
+  597  ls -l
+  598  cd darbi1
+  599  ls -l
+  600  cat history.txt 
+  601  ls -l
+  602  chmod 744 history.txt 
+  603  ls -l
+  604  cd ..
+  605  ls -l
+  606  cd darbi1
+  607  ls -l
+  608  ls -la
+  609  cd .git
+  610  ls -l
+  611  cd ..
+  612  rm history.txt 
+  613  ls -l
+  614  cd ..
+  615  ls -l
+  616  rm darbi1
+  617  rm darbi1/
+  618  rmdir darbi1/
+  619  mkdir 123
+  620  ls -ls
+  621  rmdir ./123
+  622  ls -l
+  623  cd darbi1/
+  624  ls -l
+  625  cd ..
+  626  ls -l
+  627  rmdir ./darbi1/
+  628  rmdir ./darbi1
+  629  cd darbi1/
+  630  ls -la
+  631  rmdir ./.git
+  632  cd ..
+  633  ls -l
+  634  cat history.txt 
+  635  ls -l
+  636  cd DMI
+  637  ls -l
+  638  cat Datormaciba.txt 
+  639  cat Datormaciba1.txt 
+  640  ls -l
+  641  history
+  642  history > history17102017.tx
+  643  ls -l
+  644  chmod 744 history17102017.txt 
+  645  cat history17102017.txt 
+  646  ./git-upload 20171710_16_59
+  647  ls -l
+  648  cd darbi
+  649  ls -l
+  650  cd DMI
+  651  ls -l
+  652  nano shell_operators.sh 
+  653  nano uzd1.sh
+  654  nano shell_operators.sh 
+  655  nano uzd1.sh
+  656  nano shell_operators.sh 
+  657  nano shell_test.sh 
+  658  nano uzd1.sh
+  659  ./uzd1.sh 5 9
+  660  chmod 744 uzd1.sh 
+  661  ./uzd1.sh 5 9
+  662  ./uzd1.sh 10 5
+  663  nano uzd1.sh
+  664  ./uzd1.sh 10 5
+  665  ./uzd1.sh 5 9
+  666  nano uzd1.sh
+  667  nano shell_test.sh 
+  668  nano shell_operators.sh 
+  669  nano uzd1.sh
+  670  ./uzd1.sh 1 2 3
+  671  nano uzd1.sh
+  672  ./uzd1.sh 1 2 3
+  673  nano uzd1.sh
+  674  ./uzd1.sh 1 2 3
+  675  nano uzd1.sh
+  676  ./uzd1.sh 1 2 3
+  677  nano uzd1.sh
+  678  ./uzd1.sh
+  679  nano uzd1.sh
+  680  ./uzd1.sh
+  681  nano uzd1.sh
+  682  ./uzd1.sh
+  683  nano uzd1.sh
+  684  ./uzd1.sh
+  685  nano uzd1.sh
+  686  ./uzd1.sh
+  687  nano uzd1.sh
+  688  ./uzd1.sh
+  689  nano uzd1.sh
+  690  ./uzd1.sh
+  691  nano uzd1.sh
+  692  ./uzd1.sh
+  693  nano uzd1.sh
+  694  ./uzd1.sh
+  695  nano uzd1.sh
+  696  ./uzd1.sh
+  697  nano uzd1.sh
+  698  ./uzd1.sh
+  699  nano uzd1.sh
+  700  ./uzd1.sh
+  701  nano uzd1.sh
+  702  ./uzd1.sh
+  703  ./uzd1.sh 1 2
+  704  ./uzd1.sh 3 1
+  705  nano uzd1.sh
+  706  ./uzd1.sh 3 1
+  707  ./uzd1.sh 
+  708  nano uzd1.sh
+  709  ./uzd1.sh 
+  710  nano uzd1.sh
+  711  ./uzd1.sh 
+  712  nano uzd1.sh
+  713  ./uzd1.sh 
+  714  nano uzd1.sh
+  715  ./uzd1.sh 
+  716  nano uzd1.sh
+  717  ./uzd1.sh 
+  718  nano uzd1.sh
+  719  ./uzd1.sh 
+  720  nano uzd1.sh
+  721  ./uzd1.sh 
+  722  nano uzd1.sh
+  723  ./uzd1.sh 
+  724  nano uzd1.sh
+  725  ./uzd1.sh 
+  726  nano uzd1.sh
+  727  ./uzd1.sh 
+  728  nano uzd1.sh
+  729  ./uzd1.sh 
+  730  ./uzd1.sh [A
+  731  nano uzd1.sh
+  732  ./uzd1.sh [A
+  733  nano uzd1.sh
+  734  ./uzd1.sh 
+  735  nano uzd1.sh
+  736  ./uzd1.sh 
+  737  nano uzd1.sh
+  738  ./uzd1.sh 
+  739  nano uzd1.sh
+  740  ./uzd1.sh 
+  741  nano uzd1.sh
+  742  ./uzd1.sh 
+  743  nano uzd1.sh
+  744  ./uzd1.sh 
+  745  nano uzd1.sh
+  746  ./uzd1.sh 
+  747  nano uzd1.sh
+  748  ./uzd1.sh 
+  749  1
+  750  ./uzd1.sh
+  751  nano uzd1.sh
+  752  ./git-upload 20171810_11_45
+  753  ls -l
+  754  cd darbi
+  755  ls -l
+  756  cd DMI
+  757  ls -l
+  758  cat uzd1.sh.save 
+  759  nano uzd1.sh.save 
+  760  nano uzd1.sh
+  761  nano uzd2.sh
+  762  ls -l
+  763  chmod 744 uzd2.sh 
+  764  ./uzd2.sh 
+  765  nano uzd2.sh
+  766  ./uzd2.sh 
+  767  nano uzd2.sh
+  768  ./uzd2.sh 
+  769  nano uzd2.sh
+  770  ./uzd2.sh 
+  771  nano uzd2.sh
+  772  nano uzd1.sh
+  773  nano uzd2.sh
+  774  ./uzd2.sh 
+  775  ./git-upload 20172410_23_04
+  776  cd darbi
+  777  cd DMI
+  778  ls -
+  779  ls -l
+  780  ./uzd1.sh
+  781  nano uzd1.sh
+  782  ./uzd1.sh
+  783  nano uzd1.sh
+  784  ./uzd1.sh
+  785  ls -l
+  786  ./uzd2.sh 
+  787  nano uzd2.sh 
+  788  nano uzd3.sh
+  789  chmod 744 uzd3.sh 
+  790  nano uzd2.sh 
+  791  nano uzd3.sh
+  792  pwd
+  793  nano if_C02.sh
+  794  chmod 744 if_C02.sh 
+  795  ./if_C02.sh 
+  796  nano if_C02.sh
+  797  ./if_C02.sh 
+  798  nano sort.sh
+  799  chmod 744 sort.sh 
+  800  ./sort.sh 
+  801  nano sort.sh
+  802  ./sort.sh 
+  803  nano sort.sh
+  804  ./sort.sh 
+  805  nano sort.sh
+  806  ./sort.sh 
+  807  nano sort.sh
+  808  nano statistika.sh
+  809  nano sort.sh
+  810  ./sort.sh 
+  811  nano sort.sh
+  812  ./sort.sh 
+  813  nano sort.sh
+  814  ./sort.sh 
+  815  nano sort.sh
+  816  ./sort.sh 
+  817  nano sort.sh
+  818  ./sort.sh 
+  819  nano sort.sh
+  820  ./sort.sh 
+  821  nano sort.sh
+  822  ./sort.sh 
+  823  nano sort.sh
+  824  ./sort.sh 
+  825  nano sort.sh
+  826  ./sort.sh 
+  827  nano sort.sh
+  828  ./sort.sh 
+  829  nano sort.sh
+  830  ./sort.sh 
+  831  nano sort.sh
+  832  ./sort.sh 
+  833  nano sort.sh
+  834  ./sort.sh 
+  835  nano sort.sh
+  836  ls -la
+  837  ./shell_operators.sh 
+  838  nano shell_operators.sh 
+  839  nano sort.sh
+  840  ./sort.sh 
+  841  nano sort.sh
+  842  ./sort.sh 
+  843  nano shell_operators.sh 
+  844  nano sort.sh
+  845  ./sort.sh 
+  846  nano sort.sh
+  847  ./sort.sh 
+  848  nano sort.sh
+  849  ls -l
+  850  nano uzd3.sh 
+  851  ./uzd3.sh 
+  852  nano uzd3.sh 
+  853  ./uzd3.sh 
+  854  nano uzd3.sh 
+  855  ./uzd3.sh 
+  856  nano uzd3.sh 
+  857  ./uzd3.sh 
+  858  nano uzd3.sh 
+  859  ./uzd3.sh 
+  860  nano uzd3.sh 
+  861  ./uzd3.sh 
+  862  nano sort.sh
+  863  ./sort.sh 
+  864  nano sort.sh
+  865  ./sort.sh 
+  866  nano sort.sh
+  867  ./sort.sh 
+  868  nano sort.sh
+  869  ./sort.sh 
+  870  nano sort.sh
+  871  ./sort.sh 
+  872  nano sort.sh
+  873  nano uzd3.sh 
+  874  ./uzd3.sh 
+  875  nano sort.sh
+  876  ./sort.sh 
+  877  nano sort.sh
+  878  ./sort.sh 
+  879  nano sort.sh
+  880  ./sort.sh 
+  881  nano sort.sh
+  882  ./sort.sh 
+  883  nano sort.sh
+  884  ./sort.sh 
+  885  nano sort.sh
+  886  ./sort.sh 
+  887  nano sort.sh
+  888  ./sort.sh 
+  889  nano sort.sh
+  890  ./sort.sh 
+  891  nano sort.sh
+  892  ./sort.sh 
+  893  nano sort.sh
+  894  ./sort.sh 
+  895  nano sort.sh
+  896  ls -la
+  897  nano uzd3.sh 
+  898  nano shell_operators.sh 
+  899  nano uzd3.sh 
+  900  ./uzd3.sh 
+  901  nano sort.sh
+  902  ./sort.sh 
+  903  nano uzd3.sh 
+  904  nano sort.sh
+  905  ./sort.sh 
+  906  nano sort.sh
+  907  ./sort.sh 
+  908  nano shell_operators.sh 
+  909  nano sort.sh
+  910  ./sort.sh 
+  911  nano sort.sh
+  912  ./sort.sh 
+  913  nano shell_operators.sh 
+  914  nano sort.sh
+  915  nano shell_operators.sh 
+  916  nano sort.sh
+  917  ./sort.sh 
+  918  nano sort.sh
+  919  ./sort.sh 
+  920  nano sort.sh
+  921  ./sort.sh 
+  922  nano sort.sh
+  923  ./sort.sh 
+  924  nano sort.sh
+  925  ./sort.sh 
+  926  nano sort.sh
+  927  ./sort.sh 
+  928  history > history20172510_10_46.txt
+  929  ls -la
+  930  ./git-upload 
+  931  ./git-upload 20172510_10_46
+  932  ls -la
+  933  ls -l
+  934  cd darbi
+  935  ls -l
+  936  cd DMI
+  937  ls -l
+  938  nano ./uzd3.sh 
+  939  nano ./uzd2.sh 
+  940  nano ./sort.sh
+  941  nano moda.sh
+  942  nano ./sort.sh
+  943  nano moda.sh
+  944  nano ./sort.sh
+  945  nano moda.sh
+  946  nano ./sort.sh
+  947  nano moda.sh
+  948  nano ./sort.sh
+  949  nano moda.sh
+  950  nano ./sort.sh
+  951  nano moda.sh
+  952  nano ./sort.sh
+  953  ./sort.sh
+  954  nano ./sort.sh
+  955  ./sort.sh
+  956  nano ./sort.sh
+  957  ./sort.sh
+  958  nano ./sort.sh
+  959  ./sort.sh
+  960  nano ./sort.sh
+  961  ./sort.sh
+  962  nano ./sort.sh
+  963  ./sort.sh
+  964  nano ./sort.sh
+  965  ./sort.sh
+  966  nano ./sort.sh
+  967  ./sort.sh
+  968  nano ./sort.sh
+  969  nano sort.sh
+  970  ls -l
+  971  cd darbi
+  972  cd DMI
+  973  nano sort.sh
+  974  ./sort.sh
+  975  nano sort.sh
+  976  ./sort.sh
+  977  nano sort.sh
+  978  ./sort.sh
+  979  nano sort.sh
+  980  cd darbi
+  981  cd DMI
+  982  ls -l
+  983  ls -lp
+  984  $ python3 --version
+  985  python3 --version
+  986  python2 --version
+  987  sudo apt update
+  988  sudo apt install python3.6
+  989  python 3.6 -V
+  990  python3.6 -V
+  991  ls -l
+  992  cd darbi
+  993  cd DMI
+  994  ls -l
+  995  pwd
+  996  mkdir PYTHON
+  997  cd PYTHON
+  998  ls -l
+  999  whereis python
+ 1000  nano hello.py
+ 1001  ls -l
+ 1002  chmod 744 hello.py 
+ 1003  ./hello.py 
+ 1004  nano hello.py
+ 1005  ./hello.py 
+ 1006  nano hello.py
+ 1007  ./hello.py 
+ 1008  nano hello.py
+ 1009  ./hello.py 
+ 1010  nano hello.py
+ 1011  ./hello.py 
+ 1012  nano hello.py
+ 1013  ./hello.py 
+ 1014  nano hello.py
+ 1015  ./hello.py 
+ 1016  nano hello.py
+ 1017  ./hello.py 
+ 1018  nano hello.py
+ 1019  ./hello.py 
+ 1020  nano hello.py
+ 1021  ./hello.py 
+ 1022  nano hello.py
+ 1023  ./hello.py 
+ 1024  nano hello.py
+ 1025  ./hello.py 
+ 1026  nano hello.py
+ 1027  ./hello.py 
+ 1028  nano hello.py
+ 1029  ./hello.py 
+ 1030  nano hello.py
+ 1031  ./hello.py 
+ 1032  nano hello.py
+ 1033  ./hello.py 
+ 1034  nano hello.py
+ 1035  ./hello.py 
+ 1036  nano hello.py
+ 1037  ./hello.py 
+ 1038  nano hello.py
+ 1039  ./hello.py 
+ 1040  nano hello.py
+ 1041  ./hello.py 
+ 1042  nano hello.py
+ 1043  ./hello.py 
+ 1044  nano hello.py
+ 1045  ./hello.py 
+ 1046  nano hello.py
+ 1047  ./hello.py 
+ 1048  nano hello.py
+ 1049  ./hello.py 
+ 1050  nano hello.py
+ 1051  ./hello.py 
+ 1052  nano hello.py
+ 1053  ./hello.py 
+ 1054  nano hello.py
+ 1055  ./hello.py 
+ 1056  nano hello.py
+ 1057  ./hello.py 
+ 1058  nano hello.py
+ 1059  ./hello.py 
+ 1060  nano hello.py
+ 1061  ./hello.py 
+ 1062  nano hello.py
+ 1063  ./hello.py 
+ 1064  nano hello.py
+ 1065  ./hello.py 
+ 1066  nano hello.py
+ 1067  ./hello.py 
+ 1068  nano hello.py
+ 1069  ./hello.py 
+ 1070  nano hello.py
+ 1071  ./hello.py 
+ 1072  nano hello.py
+ 1073  ./hello.py 
+ 1074  nano hello.py
+ 1075  ./hello.py 
+ 1076  nano hello.py
+ 1077  ./hello.py 
+ 1078  nano hello.py
+ 1079  ./hello.py 
+ 1080  nano hello.py
+ 1081  ./hello.py 
+ 1082  nano hello.py
+ 1083  ./hello.py 
+ 1084  nano hello.py
+ 1085  ./hello.py 
+ 1086  nano hello.py
+ 1087  nano variables.py
+ 1088  chmod 744 variables.py 
+ 1089  ./variables.py 
+ 1090  nano variables.py
+ 1091  ./variables.py 
+ 1092  nano variables.py
+ 1093  ./variables.py 
+ 1094  nano variables.py
+ 1095  ./variables.py 
+ 1096  nano variables.py
+ 1097  ./variables.py 
+ 1098  nano variables.py
+ 1099  ./variables.py 
+ 1100  nano variables.py
+ 1101  ./variables.py 
+ 1102  nano variables.py
+ 1103  ./variables.py 
+ 1104  nano variables.py
+ 1105  ./variables.py 
+ 1106  nano variables.py
+ 1107  ./variables.py 
+ 1108  nano variables.py
+ 1109  ./variables.py 
+ 1110  nano variables.py
+ 1111  ./variables.py 
+ 1112  nano variables.py
+ 1113  ./variables.py 
+ 1114  nano variables.py
+ 1115  ./variables.py 
+ 1116  nano variables.py
+ 1117  ./variables.py 
+ 1118  nano variables.py
+ 1119  ./variables.py 
+ 1120  nano variables.py
+ 1121  ./variables.py 
+ 1122  nano variables.py
+ 1123  ./variables.py 
+ 1124  nano variables.py
+ 1125  ./variables.py 
+ 1126  nano variables.py
+ 1127  ./variables.py 
+ 1128  nano variables.py
+ 1129  ./variables.py 
+ 1130  nano variables.py
+ 1131  ./variables.py 
+ 1132  nano variables.py
+ 1133  ./variables.py 
+ 1134  nano variables.py
+ 1135  ./variables.py 
+ 1136  nano variables.py
+ 1137  ./variables.py 
+ 1138  nano variables.py
+ 1139  ./variables.py 
+ 1140  nano variables.py
+ 1141  ./variables.py 
+ 1142  nano variables.py
+ 1143  ./variables.py 
+ 1144  nano variables.py
+ 1145  ./variables.py 
+ 1146  nano variables.py
+ 1147  nano dialogs.py
+ 1148  chmod 744 dialogs.py 
+ 1149  ./dialogs.py 
+ 1150  nano dialogs.py
+ 1151  ./dialogs.py 
+ 1152  nano dialogs.py
+ 1153  ./dialogs.py 
+ 1154  nano dialogs.py
+ 1155  ./dialogs.py 
+ 1156  nano dialogs.py
+ 1157  ./dialogs.py 
+ 1158  nano dialogs.py
+ 1159  ./dialogs.py 
+ 1160  nano dialogs.py
+ 1161  ./dialogs.py 
+ 1162  nano dialogs.py
+ 1163  ./dialogs.py 
+ 1164  nano dialogs.py
+ 1165  ./dialogs.py 
+ 1166  nano dialogs.py
+ 1167  ./dialogs.py 
+ 1168  nano dialogs.py
+ 1169  ./dialogs.py 
+ 1170  nano dialogs.py
+ 1171  ./dialogs.py 
+ 1172  nano dialogs.py
+ 1173  ./dialogs.py 
+ 1174  nano dialogs.py
+ 1175  ./dialogs.py 
+ 1176  nano dialogs.py
+ 1177  ./dialogs.py 
+ 1178  nano dialogs.py
+ 1179  ./dialogs.py 
+ 1180  nano dialogs.py
+ 1181  ./dialogs.py 
+ 1182  nano dialogs.py
+ 1183  ./dialogs.py 
+ 1184  nano dialogs.py
+ 1185  nano if.py
+ 1186  chmod 744 if.py 
+ 1187  ./if.py 
+ 1188  chmod 744 if.py 
+ 1189  nano if.py
+ 1190  python if.py 
+ 1191  nano if.py
+ 1192  ls -l
+ 1193  python if.py 
+ 1194  idle &
+ 1195  sudo apt install idle
+ 1196  idle &
+ 1197  cd ..
+ 1198  history > history08112017.txt
