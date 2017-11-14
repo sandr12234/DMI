@@ -7,9 +7,12 @@ else:
     	
 '''
 
+'''
 if a> 0:
  print "poz"
 elif a==0:
  print "0"
 else:
  print "neg"
+'''
+
