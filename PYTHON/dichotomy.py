@@ -23,7 +23,7 @@ plt.grid() #8
 plt.show() #9
 
 # funkcijas saknes meklesana
-delta_x = 1.e-5 #0.001
+delta_x = 1.e-3 #0.001
 funa = mans_sinuss(a)
 funb = mans_sinuss(b)
 if funa*funb>0:
