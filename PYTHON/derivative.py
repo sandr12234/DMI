@@ -35,7 +35,7 @@ plt.plot(x[:n-1],y_prim)
 
 
 #funckijas atvasinajums no atvasinajuma
-n = len(x[:n-1])
+#n = len(x[:n-1])
 y_prim2 = []
 for i in range (n-2):
     #print i, y_prim[i], y_prim[i+1]
