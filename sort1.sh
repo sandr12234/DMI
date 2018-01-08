@@ -59,12 +59,19 @@ fi
 echo "moda"
 p=0
 for (( i=0; i<${#ARRAY[@]}; i++ ))
-do
-j=$((i+1))
-if [ ${ARRAY[i]} -eq ${ARRAY[j]} ]
-then
-$p + 1
-fi
+ do
+  for ((j=i+1; j<${#ARRAY[@]}; j++))
+   do
+   if [[ ${ARRAY[i]} -eq ${ARRAY[j]} ]]
+    then
+     p=$(($p + 1))
+   fi
+  done
 done
-echo $p
 
+if [[ $p == 0 ]]
+then
+echo "Modas nav"
+else
+echo $p
+fi

@@ -21,7 +21,7 @@ x = np.arange(a,b,delta_x) #5
 y = mans_sinuss(x) #6a
 plt.plot(x,y) #7
 plt.grid() #8
-#plt.show() #9
+plt.show() #9
 
 #funkcijas atvasinajuma aprekins
 n = len(x)
@@ -31,7 +31,8 @@ for i in range (n-1):
     #print (y[i+1]-y[i])/(x[i+1]-x[i])
     y_prim.append((y[i+1]-y[i])/(x[i+1]-x[i]))
 plt.plot(x[:n-1],y_prim)
-#plt.show()
+plt.grid()
+plt.show()
 
 
 #funckijas atvasinajums no atvasinajuma
@@ -42,5 +43,6 @@ for i in range (n-2):
     #print (y_prim[i+1]-y_prim[i])/(x[i+1]-x[i])
     y_prim2.append((y_prim[i+1]-y_prim[i])/(x[i]-x[i-1]))
 plt.plot(x[:n-2],y_prim2)
+plt.grid()
 plt.show()
 
