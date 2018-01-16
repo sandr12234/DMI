@@ -56,20 +56,21 @@ else
 echo "mediana" ${ARRAY[z]}
 fi
 
-echo "moda"
-p=0
-for (( i=0; i<${#ARRAY[@]}; i++ ))
- do
-  j=$((i+1))
-  if [[ ${ARRAY[i]} -eq ${ARRAY[j]} ]]
-   then
-    p=$(($p + 1))
-  fi
-done
+#echo "moda"
+#p=0
+#for (( i=0; i<${#ARRAY[@]}; i++ ))
+# do
+#  j=$((i+1))
+#  if [[ ${ARRAY[i]} -eq ${ARRAY[j]} ]]
+#   then
+#    p=$(($p + 1))
+#  fi
+#done
 
-if [[ $p == 0 ]]
-then
-echo "Modas nav"
-else
-echo $p
-fi
+#if [[ $p == 0 ]]
+#then
+#echo "Modas nav"
+#else
+#echo $p
+#fi
+
