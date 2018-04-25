@@ -1,0 +1,75 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  mkdir t
+    5  cd t
+    6  ls
+    7  vim
+    8  cd t
+    9  vim 01.html
+   10  cd ..
+   11  git clone https://github.com/sandr12234/DMI
+   12  ls
+   13  arch
+   14* 
+   15  wget https://nodejs.org/dist/latest-v6.x/node-v6.14.1-linux-ppc64le.tar.gz
+   16  ls
+   17  tar xvzf node-v6.14.1-linux-ppc64le.tar.gz 
+   18  ls
+   19  cd node-v6.14.1-linux-ppc64le/
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd node-v6.14.1-linux-ppc64le/
+   24  ls
+   25  cd bin
+   26  ls
+   27  node
+   28  ./node
+   29  ls
+   30  ./node
+   31  ls
+   32  ls -a
+   33  ls-la
+   34  ls -la
+   35  ./node
+   36  cd ..
+   37  ls
+   38  rm -rf node-v6.14.1-linux-ppc64le
+   39  rm -rf node-v6.14.1-linux-ppc64le.tar.gz 
+   40  wget https://nodejs.org/dist/latest-v6.x/node-v6.14.1-linux-ppc64le.tar.gz
+   41  tar xvzf node-v6.14.1-linux-ppc64le.tar.gz 
+   42  ls
+   43  cd node-v6.14.1-linux-ppc64le/
+   44  cd
+   45  cd node-v6.14.1-linux-ppc64le/
+   46  ls
+   47  cd bin
+   48  ls
+   49  ./node
+   50  chmod +x node 
+   51  ls
+   52  ./node
+   53  ./npm
+   54  cd
+   55  cd node-v6.14.1-linux-ppc64le/
+   56  ls
+   57  cd bin
+   58  ls
+   59  echo $PATH
+   60  pwd
+   61  `pwd`
+   62  echo `pwd`
+   63  PATH=`pwd`:$PATH
+   64  echo $PATH
+   65  npm
+   66  ./npm
+   67  ls
+   68  npm install http-server
+   69  history > history25.txt
+   70  ls
+   71  rm history25.txt 
+   72  cd ..
+   73  cd
+   74  ls
+   75  history > history25.txt
