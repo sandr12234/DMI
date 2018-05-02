@@ -1,0 +1,255 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  wget http://nodejs.org/dist/latest-v6.x/node-v6.14.2-linux-ppc64le.tar.gz
+    5  ls
+    6  tar xvzf node-v6.14.2-linux-ppc64le.tar.gz 
+    7  ls
+    8  cd node-v6.14.2-linux-ppc64le
+    9  ls
+   10  cd bin
+   11  cd
+   12  cd bin
+   13  cd node-v6.14.2-linux-ppc64le
+   14  cd bin
+   15  ls
+   16  ./node
+   17  echo $PATH
+   18  PWD
+   19  pwd
+   20  `pwd`
+   21  echo `pwd`
+   22  PATH=`pwd`:$PATH
+   23  echo $PATH
+   24  ls
+   25  ./node
+   26  chmod +x node
+   27  ./node
+   28  ./npm
+   29  ./node
+   30  arch
+   31  npm install http-server
+   32  ./node
+   33  ls
+   34  cd ..
+   35  ;s
+   36  ls
+   37  cd bin
+   38  l
+   39  ls
+   40  ./node
+   41  arch
+   42  cd
+   43  ls
+   44  rm -rf node-v6.14.2-linux-ppc64le
+   45  rm -rf node-v6.14.2-linux-ppc64le.tar.gz 
+   46  wget http://nodejs.org/dist/latest-v6.x/node-v6.14.2-linux-x86.tar.gz
+   47  ls
+   48  tar xvzf node-v6.14.2-linux-x86.tar.gz 
+   49  ls
+   50  cd node-v6.14.2-linux-x86/
+   51  ls
+   52  cd bin
+   53  ls
+   54  echo $PATH
+   55  firefox
+   56  echo $PATH
+   57  ls
+   58  cd node-v6.14.2-linux-x86/
+   59  cd bin/
+   60  ls
+   61  echo `pwd`
+   62  PATH=`pwd`:$PATH
+   63  echo $PATH
+   64  ./node
+   65  npm install http-server -g
+   66  bower install vaadin/vaadin-date-picker
+   67  npm install bower
+   68  firefox
+   69  cd node-v6.14.2-linux-x86/
+   70  cd bin/
+   71  PATH=`pwd`:$PATH
+   72  npm install bower
+   73  npm install -g bower
+   74  cd
+   75  cd node-v6.14.2-linux-x86/
+   76  cd bin/
+   77  ls
+   78  cd bower
+   79  ls
+   80  PATH=`pwd`:$PATH
+   81  echo `pwd`
+   82  bower install vaadin/vaadin-date-picker 
+   83  ls
+   84  cd node_modules/
+   85  ls
+   86  cd bower/
+   87  ls
+   88  cd ..
+   89  ls
+   90  pwd
+   91  ls
+   92  cd bower_components/
+   93  ls
+   94  cd vaadin-date-picker/
+   95  ls
+   96  nano vaadin-date-picker.html 
+   97  pwd
+   98  nano vaadin-date-picker.html 
+   99  nano calendar.html
+  100  nano vaadin-date-picker.html 
+  101  nano calendar.html
+  102  chmod 744 calendar.html 
+  103  ./calendar.html 
+  104  nano calendar.html
+  105  ./calendar.html 
+  106  nano calendar.html
+  107  ./calendar.html 
+  108  nano vaadin-date-picker.html 
+  109  nano calendar.html
+  110  ./calendar.html 
+  111  nano calendar.html
+  112  ls
+  113  nano vaadin-date-picker.html 
+  114  ls
+  115  pwd
+  116  nano calendar.html 
+  117  ./calendar.html 
+  118  cd
+  119  cd node-v6.14.2-linux-x86/
+  120  cd bin/
+  121  ls
+  122  cd ..
+  123  ls
+  124  cd ..
+  125  ls
+  126  cd node-v6.14.2-linux-x86/
+  127  cd bin/
+  128  ls
+  129  cd bower_components/
+  130  ls
+  131  cd vaadin-date-picker/
+  132  ls
+  133  nano calendar.html 
+  134  cd ..
+  135  ls
+  136  cd ..
+  137  ls
+  138  ./node
+  139  http-server
+  140  ls
+  141  cd bower_components/
+  142  cd vaadin-date-picker/
+  143  ls
+  144  pwd
+  145  mv calendar.html /home/user
+  146  cd
+  147  ls
+  148  http-server 
+  149  mv calendar.html /home/user/node-v6.14.2-linux-x86/bin/
+  150  http-server 
+  151  ls
+  152  cd node-v6.14.2-linux-x86/
+  153  cd bin/
+  154  ls
+  155  nano calendar.html 
+  156  http-server 
+  157  nano calendar.html 
+  158  http-server 
+  159  ls
+  160  nano calendar.html 
+  161  http-server 
+  162  LS
+  163  ls
+  164  cd ..
+  165  http-server 
+  166  ls
+  167  mkdir t
+  168  cd t
+  169  nano 123.html
+  170  nano
+  171  ls
+  172  http-server 
+  173  cd
+  174  mkdir t
+  175  cd t
+  176  nano
+  177  http-server 
+  178  ls
+  179  d
+  180  cd
+  181  ls
+  182  cd node-v6.14.2-linux-x86/
+  183  cd bin/
+  184  ls
+  185  cd
+  186  pwd
+  187  cd t
+  188  pwd
+  189  cd
+  190  cd node-v6.14.2-linux-x86/
+  191  cd bin/
+  192  ls
+  193  mv calendar.html /home/user/t
+  194  cd
+  195  cd t
+  196  http-server 
+  197  ls
+  198  cd
+  199  cd t
+  200  pwd
+  201  cd
+  202  s
+  203  ls
+  204  cd t
+  205  ls
+  206  bower install vaadin/vaadin-date-picker
+  207  ls
+  208  nano calendar.html 
+  209  ls
+  210  nano calendar.html 
+  211  http-server 
+  212  ls
+  213  http-server 
+  214  nano calendar.html 
+  215  http-server 
+  216  nano calendar.html 
+  217  http-server 
+  218  nano calendar.html 
+  219  http-server 
+  220  nano calendar.html 
+  221  cd bower_components/
+  222  cd vaadin-date-picker/
+  223  ls
+  224  nano vaadin-date-picker.html 
+  225  cd
+  226  cd t
+  227  ls
+  228  nano calendar.html 
+  229  http-server 
+  230  nano calendar.html 
+  231  cd
+  232  git clone https://github.com/sandr12234/DMI
+  233  mv t ./DMI
+  234  cd DMI
+  235  ls
+  236  ./git-upload 020518
+  237  cd DMI
+  238  cd t
+  239  ls
+  240  http`server
+  241  http-server
+  242  cd
+  243  pwd
+  244  cd DMI
+  245  mv t /home/user
+  246  cd
+  247  ls
+  248  cd t
+  249  http-server
+  250  ls
+  251  nano calendar.html 
+  252  cd DMI
+  253  cd
+  254  cd DMI
+  255  history > history02.txt
